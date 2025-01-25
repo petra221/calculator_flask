@@ -1,4 +1,4 @@
-## simple flak app
+## simple flask app
 
 Handles artihmetic operations: 
 addition, subtraction, multiplication adn division 
